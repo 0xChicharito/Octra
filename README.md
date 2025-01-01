@@ -5,6 +5,7 @@ Step 1:
 ```chmod +x evn.sh```
 
 ```./evn.sh```
+
 Step 2:
 
 ```wget https://raw.githubusercontent.com/0xChicharito/Octra/refs/heads/main/config.ml```
