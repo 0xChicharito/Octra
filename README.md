@@ -2,9 +2,9 @@ Step 1:
 
 ```wget https://raw.githubusercontent.com/0xChicharito/Octra/refs/heads/main/env.sh```
 
-```chmod +x evn.sh```
+```chmod +x env.sh```
 
-```./evn.sh```
+```./env.sh```
 
 Step 2:
 
