@@ -4,7 +4,7 @@
 
 ```./evn.sh```
 
-```https://raw.githubusercontent.com/0xChicharito/Octra/refs/heads/main/config.ml```
+```wget https://raw.githubusercontent.com/0xChicharito/Octra/refs/heads/main/config.ml```
 
 ```eval $(opam env)```
 
