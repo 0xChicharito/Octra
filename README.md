@@ -1,10 +1,12 @@
 Step 1:
+
 ```wget https://raw.githubusercontent.com/0xChicharito/Octra/refs/heads/main/env.sh```
 
 ```chmod +x evn.sh```
 
 ```./evn.sh```
 Step 2:
+
 ```wget https://raw.githubusercontent.com/0xChicharito/Octra/refs/heads/main/config.ml```
 
 ```eval $(opam env)```
